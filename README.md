@@ -1,3 +1,3 @@
 # Responsive-Web-Design-Certification
 
-![Screenshot](Responsive Web Design.PNG)
+![Screenshot](../master/Responsive Web Design.PNG)
